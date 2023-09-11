@@ -1,6 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XebgzMRB)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11724214&assignment_repo_type=AssignmentRepo)
-# Test case Fora
+
 ### Файлы с данными:
 
 ###### competitors2.json - спортсмены с указанием нагрудного номера, имени и фамилии
@@ -56,10 +54,6 @@
 }
 ```
 
-Задание выполнять в этом же репозитории в ветке "dev". 
-Ответ на задание присылать в пулреквест в ветку main. В реквесте указать ваши контактные данные данные.
 Язык программирования Python, версия 3.9. Файл из которого происходит запуск программы должен называться main.py
 
-Крайний срок выполнения задания суббота 23:59 по Новосибирскому времени. Если вы не успели и доступа на запись в репозиторий нет - не надо делать в своем репозитории и присылать PR, перезапросите ссылку на новый у HR.
 
-Для решения задачи необходимо использовать только встроенные средства/модули языка программирования.
